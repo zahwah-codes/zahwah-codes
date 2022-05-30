@@ -1,16 +1,20 @@
 <h1 align="left">Hi there! I'm Zahwah Al-Hosni 👋 </h1>
 
-<p align:"center"><img src="https://user-images.githubusercontent.com/99246652/171055661-541eb16c-5618-47cc-b5ea-3d10d2d9102a.png" /></p>.
+![Screenshot 2022-05-31 at 00 41 57](https://user-images.githubusercontent.com/99246652/171057074-f69792e3-84a0-4c1d-9bd6-c41070219fc9.png)
 
 <h3 align="left">I'm a front-end developer, music producer and hardcore coffee drinker </h3>
 
 ---
 
-- I’m currently learning React and Redux
+- :nerd_face: I’m currently learning React and Redux
 
-- My 2022 goal is to learn TypeScript and Next.js
+- :woman_technologist: I'm working on my portfolio
 
-- Fun fact: I love mockumentaries 
+- :dart: My 2022 goal is to learn TypeScript and Next.js
+
+- :musical_keyboard: As a music producer, I love listening to all types of music (except musicals, don't @ me)
+
+- :movie_camera: Fun fact: I love mockumentaries 
 
 
 
