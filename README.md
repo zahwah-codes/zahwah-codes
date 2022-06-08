@@ -14,6 +14,8 @@
 
 - :musical_keyboard: As a music producer, I love listening to all types of music (except musicals, don't @ me)
 
+- :camera: I shoot fashion photography
+
 - :movie_camera: Fun fact: I love mockumentaries 
 
 
