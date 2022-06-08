@@ -6,7 +6,7 @@
 
 ---
 
-- :nerd_face: I’m currently learning React and Redux
+- :nerd_face: I’m currently learning Redux and Jest
 
 - :woman_technologist: I'm working on my portfolio
 
