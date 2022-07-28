@@ -10,7 +10,7 @@
 
 - :woman_technologist: I'm working on my portfolio
 
-- :dart: My 2022 goal is to learn TypeScript and Swift 
+- :dart: My 2022 goal is to learn TypeScript, Swift and Java
 
 - :musical_keyboard: As a music producer, I love listening to all types of music (except musicals, don't @ me)
 
