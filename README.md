@@ -6,11 +6,11 @@
 
 ---
 
-- :nerd_face: I’m currently learning Redux and Jest
+- :nerd_face: I’m currently learning Typescript and Jest
 
 - :woman_technologist: I'm working on my portfolio
 
-- :dart: My 2022 goal is to learn TypeScript, Swift and Java
+- :dart: My 2022 goal is to learn PostgreSQL, Swift and Java
 
 - :musical_keyboard: As a music producer, I love listening to all types of music (except musicals, don't @ me)
 
