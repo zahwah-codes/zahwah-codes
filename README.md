@@ -8,7 +8,7 @@
 
 - :nerd_face: I’m currently learning Typescript, PostgreSQL and Jest
 
-- :woman_technologist: I'm working on a MENA Creatives platform
+- :woman_technologist: I'm working on a MENA Creatives Platform
 
 - :dart: My 2022 goal is to learn Swift
 
