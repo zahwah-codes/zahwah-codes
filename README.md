@@ -6,7 +6,7 @@
 
 ---
 
-- :nerd_face: I’m currently learning Typescript, PostgreSQL and Jest
+- :nerd_face: I’m currently learning Typescript, mySQL and Jest
 
 - :woman_technologist: I'm working on a MENA Creatives Platform
 
