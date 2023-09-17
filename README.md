@@ -6,9 +6,9 @@
 
 ---
 
-- :nerd_face: I’m currently learning mySQL and Jest
+- :nerd_face: I’m currently learning mySQL and Swift.
 
-- :woman_technologist: I'm working on a MENA Creatives Platform
+- :woman_technologist: I'm working on a Photographers Platform
 
 - :dart: My 2023 goal is to learn Swift
 
