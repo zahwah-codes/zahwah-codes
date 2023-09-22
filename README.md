@@ -6,7 +6,7 @@
 
 ---
 
-- :nerd_face: I’m currently learning Swift. You can keep up with my journey on here [(https://medium.com/@zahwah-codes/my-journey-to-learning-ios-development-3406fff0e0b2)]
+- :nerd_face: I’m currently learning Swift. You can keep up with my journey on [here](https://medium.com/@zahwah-codes/my-journey-to-learning-ios-development-3406fff0e0b2)
 
 - :woman_technologist: I'm working on a Photographers Platform
 
